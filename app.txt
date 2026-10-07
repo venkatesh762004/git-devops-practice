@@ -1,2 +1,2 @@
 Application Version 1.0
-AWS Cloud Configuration
+Linux Server Configuration
